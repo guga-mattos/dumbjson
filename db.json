@@ -27,5 +27,7 @@
     "validade": "21/09/2025",
     "quantidade": "7"
   }
-]
+],
+  "localizacoes": [{"posicao":"A1"},{"posicao":"A2"},{"posicao":"A3"},{"posicao":"A4"},{"posicao":"A5"},{"posicao":"B1"},{"posicao":"B2"},{"posicao":"B3"},{"posicao":"B4"},{"posicao":"B5"},{"posicao":"C1"},{"posicao":"C2"},{"posicao":"C3"},{"posicao":"C4"},
+    {"posicao":"C5"}]
 }
